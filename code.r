@@ -14,3 +14,6 @@ aggregate(trust_score ~ gender, data = data, FUN = mean)
 # Does education predict trust?
 model <- lm(trust_score ~ education_years + age, data = data)
 summary(model)
+
+# Number of respondents by gender - Luca
+table(data$gender)
