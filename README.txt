@@ -1,4 +1,4 @@
-Title: XYZ
+Title: 123
 Authors: Luca, Karolina
 
 This repository contains a small example project for the course
