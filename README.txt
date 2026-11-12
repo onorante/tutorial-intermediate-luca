@@ -1,5 +1,5 @@
 Title: XYZ
-Authors: authorA, authorB
+Authors: Luca, Karolina
 
 This repository contains a small example project for the course
 "Git and GitHub for social science research - intermediate".
