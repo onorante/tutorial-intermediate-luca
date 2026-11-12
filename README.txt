@@ -1,4 +1,4 @@
-Title: XYZ  Luca-changed-this
+Title: XYZ  Luca-changed-this  
 Authors: Luca, Karolina
 
 This repository contains a small example project for the course
